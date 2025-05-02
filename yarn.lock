@@ -2,26 +2,26 @@
 # yarn lockfile v1
 
 
-"@ariakit/core@0.2.7":
-  version "0.2.7"
-  resolved "https://registry.npmjs.org/@ariakit/core/-/core-0.2.7.tgz"
-  integrity sha512-Hs0N1EMYq88WW4v9xnSIHNR38TvbQuoUX6FYFmeLCZSTIXQBiET7lr1DQXwOOmdEtRtlxQ5HsxbTkxeOkPv+eg==
+"@ariakit/core@0.4.15":
+  version "0.4.15"
+  resolved "https://registry.yarnpkg.com/@ariakit/core/-/core-0.4.15.tgz#b44368a5cbf08e2687cf5b4c385b16973415e504"
+  integrity sha512-vvxmZvkNhiisKM+Y1TbGMUfVVchV/sWu9F0xw0RYADXcimWPK31dd9JnIZs/OQ5pwAryAHmERHwuGQVESkSjwQ==
 
-"@ariakit/react-core@0.2.12":
-  version "0.2.12"
-  resolved "https://registry.npmjs.org/@ariakit/react-core/-/react-core-0.2.12.tgz"
-  integrity sha512-3KSKlX10nnhCvjsbPW0CAnqG+6grryfwnMkeJJ/h34FSV7hEfUMexmIjKBVZyfBG08Xj8NjSK8kkx9c3ChkXeA==
+"@ariakit/react-core@0.4.17":
+  version "0.4.17"
+  resolved "https://registry.yarnpkg.com/@ariakit/react-core/-/react-core-0.4.17.tgz#d14b9e1e47f51c26df99a32711e8dac42d58e770"
+  integrity sha512-kFF6n+gC/5CRQIyaMTFoBPio2xUe0k9rZhMNdUobWRmc/twfeLVkODx+8UVYaNyKilTge8G0JFqwvFKku/jKEw==
   dependencies:
-    "@ariakit/core" "0.2.7"
+    "@ariakit/core" "0.4.15"
     "@floating-ui/dom" "^1.0.0"
     use-sync-external-store "^1.2.0"
 
-"@ariakit/react@^0.2.12":
-  version "0.2.12"
-  resolved "https://registry.npmjs.org/@ariakit/react/-/react-0.2.12.tgz"
-  integrity sha512-4rAgMyUURHW78EKgRCanhyRUtsiYCOxO65BBHF4mg3tZsDeOvu9kBG5IAXX8mUgakTcyr0EKXuOtGThaj7gobA==
+"@ariakit/react@^0.4.17":
+  version "0.4.17"
+  resolved "https://registry.yarnpkg.com/@ariakit/react/-/react-0.4.17.tgz#6e2c42c2cbd15e875d8529c2d421b10a95908f9c"
+  integrity sha512-HQaIboE2axtlncJz1hRTaiQfJ1GGjhdtNcAnPwdjvl2RybfmlHowIB+HTVBp36LzroKPs/M4hPCxk7XTaqRZGg==
   dependencies:
-    "@ariakit/react-core" "0.2.12"
+    "@ariakit/react-core" "0.4.17"
 
 "@emnapi/runtime@^1.4.0":
   version "1.4.3"
